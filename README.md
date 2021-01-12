@@ -10,10 +10,10 @@ I'm a front-end developer, dancer (bachata), amateur chess player and sports fre
 
 ### Connect with me:
 
-[<img align="left" alt="macieksitkowski.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Maciek Sitkowski | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Maciek Sitkowski | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Maciek Sitkowski | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="macieksitkowski.com" width="30px" src="./www.svg" />][website]
+[<img align="left" alt="Maciek Sitkowski | YouTube" width="30px" src="./youtube.svg" />][youtube]
+[<img align="left" alt="Maciek Sitkowski | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="Maciek Sitkowski | Instagram" width="30px" src="./instagram.svg" />][instagram]
 
 <br />
 

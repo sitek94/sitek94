@@ -5,8 +5,8 @@
 I'm a front-end developer, dancer (bachata), amateur chess player and sports freak ✨
 
 - 🔭 I’m currently working on: [Quality Assurance Certification by freeCodeCamp](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-and-testing-with-chai/)
-- 🌱 I’m currently learning: TypeScript and Node.js
-- ⚡ Fun fact: I used to be inter alia a bartender, barista, waiter and customer service assistant
+- 📖 I’m currently learning: TypeScript and Node.js
+- 💡 Fun fact: I used to be a bartender, barista, waiter and customer service assistant
 
 ### Connect with me:
 

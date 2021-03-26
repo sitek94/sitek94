@@ -10,6 +10,7 @@ I'm a front-end developer, dancer (bachata), amateur chess player and sports fre
 ### Connect with me:
 
 [<img align="left" alt="macieksitkowski.com" width="30px" src="./www.svg" />][website]
+[<img align="left" alt="Maciek Sitkowski | freeCodeCamp" width="30px" src="./free-code-camp.svg" />][freeCodeCamp]
 [<img align="left" alt="Maciek Sitkowski | YouTube" width="30px" src="./youtube.svg" />][youtube]
 [<img align="left" alt="Maciek Sitkowski | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="Maciek Sitkowski | Instagram" width="30px" src="./instagram.svg" />][instagram]
@@ -28,4 +29,5 @@ I'm a front-end developer, dancer (bachata), amateur chess player and sports fre
 [youtube]: https://www.youtube.com/channel/UC1rKQAm9EWiHtI4ADYusG0w
 [linkedin]: https://www.linkedin.com/in/maciek-sitkowski/
 [instagram]: https://www.instagram.com/rrrubio94
+[freeCodeCamp]: https://forum.freecodecamp.org/u/sitek94/summary
 

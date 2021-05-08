@@ -2,9 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=macieksitkowski.com&style=for-the-badge&url=https%3A%2F%2Fmacieksitkowski.com)](https://macieksitkowski.com)
 
-I'm a front-end developer, dancer (bachata), amateur chess player and sports freak ✨
+I'm a frontend developer, a dancer (bachata), an amateur chess player and a sports freak ✨
 
-- 🏗️ I’m currently working on: [Wikipedia Map](https://github.com/sitek94/wikipedia-map)
+- 🏗️ I’m currently working on: [react-d3-globe](https://github.com/sitek94/react-d3-globe)
 - ✔️ Fun fact: I used to be a bartender, barista, waiter and customer service assistant
 
 ### Connect with me:

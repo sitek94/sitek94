@@ -10,7 +10,7 @@ Some of the things that I've tried before I discovered my passion for programmin
 👷  working as a production worker in a warehouse\
 📞  being a customer service assistant\
 🍽️  working as a waiter\
-🍸  making drinks as a bartender\
+🍸  making drinks as a bartender
 
 [![Website](https://img.shields.io/website?label=macieksitkowski.com&style=for-the-badge&url=https%3A%2F%2Fmacieksitkowski.com)](https://macieksitkowski.com)
 

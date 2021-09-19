@@ -1,9 +1,4 @@
   <svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
-    <style>
-      svg {
-        border-radius: 50%;
-        background: white;
-      }
-    </style>
+    <circle fill="white" cx="16px" cy="16px" r="16px" /> 
     <path d="M 5.5 10 l 10 -6 L 26.5 10 L 26.5 22 L 15.955 28 L 5.5 22 V 10 z m 2.088 2.481 v 4.757 l 3.345 1.86 v 3.516 l 3.972 2.296 v -8.272 L 7.588 12.481 z m 16.739 0 l -7.317 4.157 v 8.272 l 3.972 -2.296 V 19.1 l 3.345 -1.861 V 12.48 z M 8.634 10.601 l 7.303 4.144 l 7.32 -4.18 l -3.871 -2.197 l -3.41 1.945 l -3.43 -1.968 L 8.633 10.6 z" />
   </svg>

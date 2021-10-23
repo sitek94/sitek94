@@ -23,7 +23,7 @@ Some of the things that I've tried before I discovered my passion for programmin
 [<img align="left" alt="Maciek Sitkowski | YouTube" width="30px" src="./youtube.svg" />][youtube]
 [<img align="left" alt="Maciek Sitkowski | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
 [<img align="left" alt="Maciek Sitkowski | Instagram" width="30px" src="./instagram.svg" />][instagram]
-[<img align="left" alt="Maciek Sitkowski | CodeSandbox" width="30px" src="./codesandbox.svg" />][website]
+[<img align="left" alt="Maciek Sitkowski | CodeSandbox" width="30px" src="./codesandbox.svg" />][codesandbox]
 
 <br />
 

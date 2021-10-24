@@ -5,14 +5,14 @@
 I am a Frontend Developer and I love learning new stuff. 
 
 Some of the things that I've tried before I discovered my passion for programming:\
-⚽  playing football\
-✏️  drawing\
-🏛️  studying architecture\
-☕  making coffee as a barista\
-👷  working as a production worker in a warehouse\
-📞  being a customer service assistant\
-🍽️  working as a waiter\
-🍸  making drinks as a bartender
+⚽ &nbsp; playing football\
+✏️ &nbsp; drawing\
+🏛️ &nbsp; studying architecture\
+☕ &nbsp; making coffee as a barista\
+👷 &nbsp; working as a production worker in a warehouse\
+📞 &nbsp; being a customer service assistant\
+🍽️ &nbsp; working as a waiter\
+🍸 &nbsp; making drinks as a bartender
 
 [![Website](https://img.shields.io/website?label=macieksitkowski.com&style=for-the-badge&url=https%3A%2F%2Fmacieksitkowski.com)](https://macieksitkowski.com)
 

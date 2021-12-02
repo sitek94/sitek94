@@ -25,16 +25,6 @@ Some of the things that I've tried before I discovered my passion for programmin
 [<img align="left" alt="Maciek Sitkowski | Instagram" width="30px" src="./instagram.svg" />][instagram]
 [<img align="left" alt="Maciek Sitkowski | CodeSandbox" width="30px" src="./codesandbox.svg" />][codesandbox]
 
-<br />
-
-### Key skills:
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
 [website]: https://macieksitkowski.com
 [youtube]: https://www.youtube.com/channel/UC1rKQAm9EWiHtI4ADYusG0w
 [linkedin]: https://www.linkedin.com/in/maciek-sitkowski/
@@ -42,3 +32,45 @@ Some of the things that I've tried before I discovered my passion for programmin
 [freeCodeCamp]: https://forum.freecodecamp.org/u/sitek94/summary
 [codesandbox]: https://codesandbox.io/u/sitek94
 
+<br />
+<br />
+<hr />
+
+<p align="left">
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"
+      alt="d3js"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>

@@ -22,13 +22,11 @@ Some of the things that I've tried before I discovered my passion for programmin
 [<img align="left" alt="Maciek Sitkowski | freeCodeCamp" width="30px" src="./free-code-camp.svg" />][freeCodeCamp]
 [<img align="left" alt="Maciek Sitkowski | YouTube" width="30px" src="./youtube.svg" />][youtube]
 [<img align="left" alt="Maciek Sitkowski | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="Maciek Sitkowski | Instagram" width="30px" src="./instagram.svg" />][instagram]
 [<img align="left" alt="Maciek Sitkowski | CodeSandbox" width="30px" src="./codesandbox.svg" />][codesandbox]
 
 [website]: https://macieksitkowski.com
 [youtube]: https://www.youtube.com/channel/UC1rKQAm9EWiHtI4ADYusG0w
 [linkedin]: https://www.linkedin.com/in/maciek-sitkowski/
-[instagram]: https://www.instagram.com/rrrubio94
 [freeCodeCamp]: https://forum.freecodecamp.org/u/sitek94/summary
 [codesandbox]: https://codesandbox.io/u/sitek94
 
